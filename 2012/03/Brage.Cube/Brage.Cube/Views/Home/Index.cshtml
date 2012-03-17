@@ -1,0 +1,12 @@
+﻿@model object
+@{
+    ViewBag.Title = "Spinning cube using HTML5/JavaScript";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div id="container">
+    <div style="text-align: center; font-size: x-large;">Spinning cube using HTML5/JavaScript</div>
+    <canvas id="surface">Your browser doesnt support canvas tag</canvas>
+    <div style="text-align: right; font-size: x-small;">By Per Brage</div>
+</div>
+
+<script type="text/javascript" src="@Url.Content("~/Scripts/cube.js")"></script>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://ftp.perbrage.com/blog-examples.perbrage.com/public_html/cube" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="False" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="False" userName="136798_master" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbDYA99KA4kmtPqU1GkmZOwAAAAACAAAAAAAQZgAAAAEAACAAAAAWYUfoobPMvhBW4Aajo3ogi6K8euG1UJ2B6l0ttHjGywAAAAAOgAAAAAIAACAAAABXlQTHwlcZjp28bzogOld0yyo+B4l+mwFNkbKcnvfR1iAAAABLjlgqC8KM91VpcUvHVCxtKObfucud7kMI1jnmx2vUWUAAAADxfiaY7ENBHl1r4mAu4sMCIRP7ViDKUoooFAT2b/GNQhXYIGsCPIZH705cZMvTNf48+9R1UnzHjY57Mby37I+w" SelectedForPublish="True">
+    <file relUrl="Scripts/modernizr-1.7.js" publishTime="03/13/2012 07:13:25" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="03/13/2012 07:13:24" />
+    <file relUrl="Views/Shared/_Layout.cshtml" publishTime="03/13/2012 16:58:30" />
+    <file relUrl="bin/Brage.Cube.dll" publishTime="03/14/2012 22:37:20" />
+    <file relUrl="packages.config" publishTime="03/13/2012 07:13:25" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="03/13/2012 07:13:24" />
+    <file relUrl="Scripts/modernizr-1.7.min.js" publishTime="03/13/2012 07:13:25" />
+    <file relUrl="Web.config" publishTime="03/14/2012 22:37:34" />
+    <file relUrl="bin/Brage.Cube.pdb" publishTime="03/14/2012 22:37:20" />
+    <file relUrl="Views/Web.config" publishTime="03/13/2012 07:13:16" />
+    <file relUrl="Views/Shared/Error.cshtml" publishTime="03/13/2012 07:13:16" />
+    <file relUrl="Scripts/cube.js" publishTime="03/13/2012 16:57:39" />
+    <file relUrl="Global.asax" publishTime="03/13/2012 07:13:16" />
+    <file relUrl="Views/_ViewStart.cshtml" publishTime="03/13/2012 07:13:16" />
+    <file relUrl="Content/Site.css" publishTime="03/13/2012 16:58:22" />
+    <file relUrl="Views/Home/Index.cshtml" publishTime="03/14/2012 22:35:57" />
+  </publishProfile>
+</publishData>
